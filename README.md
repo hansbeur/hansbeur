@@ -2,7 +2,7 @@
 
 <h2>📏 Projects 📏</h2>
 
-
+- SIEM using Wazuh (In progress)
 
 <!--
 **hansbeur/hansbeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
