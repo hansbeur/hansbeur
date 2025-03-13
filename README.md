@@ -1,8 +1,7 @@
 <h1>Aloha, I'm Hans <br/>Aspiring SOC Analsyst and Penetration Tester</h1>
 
-<h2>📏 Projects 📏</h2>
 
-- SIEM using Wazuh (In progress)
+
 
 <!--
 **hansbeur/hansbeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
